@@ -1,0 +1,37 @@
+[
+  {
+    "name": "CreateTodo",
+    "path": "/CreateTodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\TodoFrontEnds\\\\pages\\\\CreateTodo.vue",
+    "chunkName": "pages/CreateTodo",
+    "_name": "_2695ce52"
+  },
+  {
+    "name": "GetAllTodos",
+    "path": "/GetAllTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\TodoFrontEnds\\\\pages\\\\GetAllTodos.vue",
+    "chunkName": "pages/GetAllTodos",
+    "_name": "_b1cd72c6"
+  },
+  {
+    "name": "Home",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\TodoFrontEnds\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_1d625cd8"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\TodoFrontEnds\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_56704784"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\desktop\\\\TodoFrontEnds\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1556848d"
+  }
+]
